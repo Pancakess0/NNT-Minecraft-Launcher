@@ -1,0 +1,9 @@
+{
+  "modloader": "fabric",
+  "version": "1.20.1",
+  "mods": [
+    "mod1",
+    "mod2",
+    "mod3"
+  ]
+}
